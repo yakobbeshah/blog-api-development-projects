@@ -1,0 +1,3 @@
+[submodule "springboot-blog-api"]
+	path = springboot-blog-api
+	url = https://github.com/yakobbeshah/blog-api-development-projects
